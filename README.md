@@ -1,2 +1,3 @@
-# fonts
-link to fonts that I might use
+# web dev resources
+
+little things that I might need.
