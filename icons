@@ -4,3 +4,7 @@ bootstrap icons
 
 font awesome icons
 <script src="https://kit.fontawesome.com/yourcode.js" crossorigin="anonymous"></script>
+
+
+google icons
+<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
